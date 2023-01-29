@@ -28,6 +28,6 @@ This repository contains two Python scripts that perform sentiment analysis on r
 
 For more detailed information on this project, see the following Medium articles:
 
-[Sentiment Analysis of Tweets with Elasticsearch](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-879407976baf)
-[Sentiment Analysis of Tweets with Elasticsearch (part2)](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-part2-e921d568bb44)
-[Sentiment Analysis of Tweets with Elasticsearch (part3)](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-part3-93133d9dae30)
+- [Sentiment Analysis of Tweets with Elasticsearch](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-879407976baf)
+- [Sentiment Analysis of Tweets with Elasticsearch (part2)](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-part2-e921d568bb44)
+- [Sentiment Analysis of Tweets with Elasticsearch (part3)](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-part3-93133d9dae30)
