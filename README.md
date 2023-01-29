@@ -23,3 +23,11 @@ This repository contains two Python scripts that perform sentiment analysis on r
 
 1. script.py: Indexes the sentiment of recent tweets containing the query "marvel".
 2. chart.py: Aggregates the sentiment values stored in Elasticsearch and plots a bar graph of the sentiment distribution.
+
+## Further Information
+
+For more detailed information on this project, see the following Medium articles:
+
+[Sentiment Analysis of Tweets with Elasticsearch](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-879407976baf)
+[Sentiment Analysis of Tweets with Elasticsearch (part2)](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-part2-e921d568bb44)
+[Sentiment Analysis of Tweets with Elasticsearch (part3)](https://medium.com/@mhdabdel151/sentiment-analysis-of-tweets-with-elasticsearch-part3-93133d9dae30)
