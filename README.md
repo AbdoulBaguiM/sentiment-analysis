@@ -23,8 +23,8 @@ docker-compose up -d
 
 ## File descriptions
 
-1. script.py: Indexes the sentiment of recent tweets containing the query "marvel".
-2. chart.py: Aggregates the sentiment values stored in Elasticsearch and plots a bar graph of the sentiment distribution.
+1. `script.py`: Indexes the sentiment of recent tweets containing the query "marvel".
+2. `chart.py`: Aggregates the sentiment values stored in Elasticsearch and plots a bar graph of the sentiment distribution.
 
 ## Further Information
 
