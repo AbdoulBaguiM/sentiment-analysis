@@ -14,7 +14,7 @@ This repository contains two Python scripts that perform sentiment analysis on r
 1. Start Elasticsearch and Kibana containers by running
 
 ```
-   docker-compose up -d
+docker-compose up -d
 ```
 
 2. Replace the bearer_token in the first script with a valid Twitter API token.
